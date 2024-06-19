@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mover_Una_Sola_Imagen", "Mover_Una_Sola_Imagen.csproj", "{41E9B430-44E1-48BB-B30A-4F69337BA032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E9B430-44E1-48BB-B30A-4F69337BA032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E9B430-44E1-48BB-B30A-4F69337BA032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E9B430-44E1-48BB-B30A-4F69337BA032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E9B430-44E1-48BB-B30A-4F69337BA032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3B1AA9-E060-442F-A766-9AEEFC6D3F42}
+	EndGlobalSection
+EndGlobal
