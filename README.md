@@ -1,6 +1,6 @@
 # MoveSinglePicture
 
-- In this tutorial we will moving a single dynamically drawn image across the screen on all 4 directions using the arrow keys.
+- _In this tutorial we will moving a single dynamically drawn image across the screen on all 4 directions using the arrow keys._
 - For any games development project player movements are very important.
 - We are experimenting with moving images not by using picture boxes but by drawing them directly to the form.
 - This way we can draw multiple images on the screen as you may have seen in the particle effects tutorials we have done before.
