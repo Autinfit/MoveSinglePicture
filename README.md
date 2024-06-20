@@ -8,4 +8,4 @@
 - _We will also make use of the timer and the paint event in windows form._
 - _We won’t be using any extra libraries or frameworks for this, we will only using C# and  Visual Studio._
 
-Let's get started.
+Let's get started!
