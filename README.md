@@ -18,4 +18,4 @@
 - Use the paint event to dynamically draw the image to the screen
 - Use the timer to control the movement and speed
 - Limit the objects movement to inside of the form only
-Have fun
+- Have fun
