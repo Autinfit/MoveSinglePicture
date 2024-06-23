@@ -11,7 +11,7 @@
 **_Let's get started!_**
 
 
-Lesson Objectives –
+Lesson Objectives:
 
 Move an object up, down, left and right using the arrow keys
 Assign key down and key up events to the form
