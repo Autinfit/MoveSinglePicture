@@ -16,6 +16,6 @@
 - **_Move an object up, down, left and right using the arrow keys._**
 - **_Assign key down and key up events to the form._**
 - **_Use the paint event to dynamically draw the image to the screen._**
-- **_Use the timer to control the movement and speed_**
+- **_Use the timer to control the movement and speed._**
 - Limit the objects movement to inside of the form only
 - Have fun!
