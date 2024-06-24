@@ -17,5 +17,5 @@
 - **_Assign key down and key up events to the form._**
 - **_Use the paint event to dynamically draw the image to the screen._**
 - **_Use the timer to control the movement and speed._**
-- _Limit the objects movement to inside of the form only_
+- **_Limit the objects movement to inside of the form only_**
 - Have fun!
