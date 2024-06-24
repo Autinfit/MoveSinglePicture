@@ -13,7 +13,7 @@
 
 ### Lesson Objectives:
 
-- Move an object up, down, left and right using the arrow keys
+- _Move an object up, down, left and right using the arrow keys_
 - Assign key down and key up events to the form
 - Use the paint event to dynamically draw the image to the screen
 - Use the timer to control the movement and speed
