@@ -19,3 +19,11 @@
 - **_Use the timer to control the movement and speed._**
 - **_Limit the objects movement to inside of the form only._**
 - **_Have fun!_**
+
+En este tutorial, moveremos una única imagen dibujada dinámicamente por la pantalla en las 4 direcciones usando las teclas de flecha.
+Para cualquier proyecto de desarrollo de juegos, los movimientos de los jugadores son muy importantes.
+Estamos experimentando con imágenes en movimiento no usando cuadros de imágenes sino dibujándolos directamente en el formulario.
+De esta manera podemos dibujar múltiples imágenes en la pantalla como habrás visto en los tutoriales de efectos de partículas que hemos hecho antes.
+Este tutorial explorará cómo darle control al usuario y mover una imagen dentro del formulario usando los eventos de tecla hacia abajo y hacia arriba.
+También haremos uso del temporizador y del evento de pintura en Windows Forms.
+No usaremos bibliotecas ni marcos adicionales para esto, solo usaremos C# y Visual Studio.
