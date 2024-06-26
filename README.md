@@ -23,7 +23,7 @@
 - _En este tutorial moveremos una única imagen dibujada dinámicamente por la pantalla en las 4 direcciones utilizando las teclas de direcciones._
 - _Para cualquier proyecto de desarrollo de juegos, los movimientos de los jugadores son muy importantes._
 - _Estamos experimentando con imágenes en movimiento no usando cuadros de imágenes sino dibujándolos directamente en el formulario._
-- De esta manera podemos dibujar múltiples imágenes en la pantalla como habrás visto en los tutoriales de efectos de partículas que hemos hecho antes.
+- _De esta manera podemos dibujar múltiples imágenes en la pantalla como habrás visto en los tutoriales de efectos de partículas que hemos hecho antes._
 - Este tutorial explorará cómo darle control al usuario y mover una imagen dentro del formulario usando los eventos de tecla hacia abajo y hacia arriba.
 - También haremos uso del temporizador y del evento de pintura en Windows Forms.
 - No usaremos bibliotecas ni marcos adicionales para esto, solo usaremos C# y Visual Studio.
