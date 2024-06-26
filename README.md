@@ -24,6 +24,6 @@
 - _Para cualquier proyecto de desarrollo de juegos, los movimientos de los jugadores son muy importantes a la hora de desarrollar este proyecto._
 - _Estamos experimentando con imágenes en movimiento no usando algunos cuadros de imágenes sino dibujándolos directamente en el formulario._
 - _De esta manera podemos dibujar múltiples imágenes en la pantalla como lo habías visto en los tutoriales de efectos de partículas que hemos hecho antes._
-- _Este tutorial explorará a cómo controlar al usuario y mover una imagen dentro del formulario usando los eventos de tecla hacia abajo y hacia arriba._
+- _Este tutorial explorará a cómo controlar al usuario y mover una imagen dentro del formulario utilizando los eventos de tecla hacia abajo y hacia arriba._
 - _También haremos uso del temporizador y del evento de pintura en Windows Forms._
 - _No usaremos bibliotecas ni marcos adicionales para esto, solo usaremos C# y Visual Studio._
