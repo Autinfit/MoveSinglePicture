@@ -20,7 +20,7 @@
 - **_Limit the objects movement to inside of the form only._**
 - **_Have fun!_**
 
-- En este tutorial moveremos una única imagen dibujada dinámicamente por la pantalla en las 4 direcciones utilizando las teclas de direcciones.
+- _En este tutorial moveremos una única imagen dibujada dinámicamente por la pantalla en las 4 direcciones utilizando las teclas de direcciones._
 - Para cualquier proyecto de desarrollo de juegos, los movimientos de los jugadores son muy importantes.
 - Estamos experimentando con imágenes en movimiento no usando cuadros de imágenes sino dibujándolos directamente en el formulario.
 - De esta manera podemos dibujar múltiples imágenes en la pantalla como habrás visto en los tutoriales de efectos de partículas que hemos hecho antes.
