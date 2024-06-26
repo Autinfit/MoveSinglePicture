@@ -25,5 +25,5 @@
 - _Estamos experimentando con imágenes en movimiento no usando cuadros de imágenes sino dibujándolos directamente en el formulario._
 - _De esta manera podemos dibujar múltiples imágenes en la pantalla como habrás visto en los tutoriales de efectos de partículas que hemos hecho antes._
 - _Este tutorial explorará cómo darle control al usuario y mover una imagen dentro del formulario usando los eventos de tecla hacia abajo y hacia arriba._
-- También haremos uso del temporizador y del evento de pintura en Windows Forms.
+- _También haremos uso del temporizador y del evento de pintura en Windows Forms._
 - No usaremos bibliotecas ni marcos adicionales para esto, solo usaremos C# y Visual Studio.
