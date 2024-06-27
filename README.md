@@ -10,7 +10,6 @@
 
 **_Let's get started!_**
 
-
 ### Lesson Objectives:
 
 - **_Move an object up, down, left and right using the arrow keys._**
