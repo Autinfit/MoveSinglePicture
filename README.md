@@ -20,6 +20,7 @@
 - **_Have fun!_**
 
 # MoverUnaImagenSimple
+
 - **_En este tutorial moveremos una única imagen dibujada dinámicamente por la pantalla en las 4 direcciones utilizando las teclas de dichas direcciones._**
 - **_Para cualquier proyecto de desarrollo de juegos, los movimientos de los jugadores son muy importantes a la hora de desarrollar este proyecto._**
 - **_Estamos experimentando con imágenes en movimiento no usando algunos cuadros de imágenes sino dibujándolos directamente en el formulario._**
