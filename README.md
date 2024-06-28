@@ -31,7 +31,7 @@
 
 ### Objetivos de la lección:
 
-- Mueve un objeto hacia arriba, abajo, izquierda y derecha usando las teclas de flecha.
+- _Mueve un objeto hacia arriba, abajo, izquierda y derecha usando las teclas de flecha._
 - Asigne eventos de tecla hacia abajo y hacia arriba al formulario.
 - Utilice el evento de pintura para dibujar dinámicamente la imagen en la pantalla.
 - Utilice el cronómetro para controlar el movimiento y la velocidad.
