@@ -29,7 +29,7 @@
 - **_También haremos uso del temporizador y un evento de pintura en Windows Forms._**
 - **_No usaremos bibliotecas ni marcos adicionales para esto, solo utilizaremos C# y Visual Studio._**
 
-Objetivos de la lección:
+### Objetivos de la lección:
 Mueve un objeto hacia arriba, abajo, izquierda y derecha usando las teclas de flecha.
 Asigne eventos de tecla hacia abajo y hacia arriba al formulario.
 Utilice el evento de pintura para dibujar dinámicamente la imagen en la pantalla.
