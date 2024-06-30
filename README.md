@@ -36,4 +36,4 @@
 - **_Utilizar el evento de pintura para dibujar dinámicamente la imagen en la pantalla._**
 - **_Utilizar el cronómetro para controlar el movimiento y la velocidad._**
 - **_Limitar el movimiento de los objetos únicamente al interior del formulario._**
-- _¡A divertirse!_
+- **_¡A divertirse!_**
