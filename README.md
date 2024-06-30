@@ -33,7 +33,7 @@
 
 - **_Mover un objeto hacia arriba, abajo, izquierda y derecha usando las teclas de flecha._**
 - **_Asignar eventos de tecla hacia abajo y hacia arriba al formulario._**
-- _Utilizar el evento de pintura para dibujar dinámicamente la imagen en la pantalla._
+- **_Utilizar el evento de pintura para dibujar dinámicamente la imagen en la pantalla._**
 - _Utilizar el cronómetro para controlar el movimiento y la velocidad._
 - _Limitar el movimiento de los objetos únicamente al interior del formulario._
 - _¡A divertirse!_
