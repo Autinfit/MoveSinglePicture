@@ -2,10 +2,19 @@ namespace Mover_Una_Sola_Imagen
 {
     public partial class Form1 : Form
     {
+        // IMPORTAREMOS VARIABLES...
+
+        Image Football;
         bool izquierda, derecha, arriba, abajo;
         public Form1()
         {
             InitializeComponent();
+
+            // DESDE ESTE APARTADO, VAMOS A IMPORTAR IMÁGENES AQUÍ...
+
+            this.BackgroundImage = Image.FromFile("bg.jpg");
+            this.BackgroundImageLayout = ImageLayout.Stretch;
+            Football = Image.FromFile("ball.png");
         }
 
         private void EventoPresionarTeclas(object sender, KeyEventArgs e)
