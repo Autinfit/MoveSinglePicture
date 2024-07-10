@@ -6,6 +6,12 @@ namespace Mover_Una_Sola_Imagen
 
         Image Football;
         bool izquierda, derecha, arriba, abajo;
+        int speed = 10;
+        int positionX = 200;
+        int positionY = 200;
+        int height = 50;
+        int width = 50;
+
         public Form1()
         {
             InitializeComponent();
