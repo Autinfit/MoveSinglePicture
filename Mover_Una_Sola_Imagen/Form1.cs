@@ -81,7 +81,10 @@ namespace Mover_Una_Sola_Imagen
         {
             // EVENTO PARA DISEÑAR LA INTERFAZ DEL PROYECTO MEDIANTE RECURSOS IMPORTADOS...
 
-            // EN INSTANTES...
+            // ESTE ES UN PROCEDIMIENTO SÚPER CORTO...
+
+            Graphics Canvas = e.Graphics; // INTERFAZ GRÁFICA.
+            Canvas.DrawImage(Football, positionX, positionY, width, height); // PROPIEDADES DEL CANVAS.
         }
 
         private void EventoTemporizador(object sender, EventArgs e)
