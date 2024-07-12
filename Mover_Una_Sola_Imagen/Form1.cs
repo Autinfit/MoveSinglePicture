@@ -91,7 +91,27 @@ namespace Mover_Una_Sola_Imagen
         {
             // EVENTO EJECUTABLE MEDIANTE UN TEMPORIZADOR...
 
-            // EN INSTANTES...
+            if (izquierda && positionX > 0)
+            {
+                positionX -= speed;
+            }
+            
+            if (derecha && positionX + width < this.ClientSize.Width) 
+            { 
+                positionX += speed; 
+            }
+            
+            if (arriba && positionY > 0)
+            {
+                positionY -= speed;
+            }
+            
+            if (abajo && positionY + height < this.ClientSize.Height)
+            {
+                positionY += speed;
+            }
+
+            this.Invalidate();
         }
     }
 }
