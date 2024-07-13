@@ -43,6 +43,7 @@
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            DoubleBuffered = true;
             Name = "Form1";
             Text = "Form1";
             Paint += EventoDiseñoFormulario;
