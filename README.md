@@ -1,4 +1,4 @@
-# MoveSinglePicture
+# _MoveSinglePicture_
 
 - **_In this tutorial we will moving a single dynamically drawn image across the screen on all 4 directions using the arrow keys._**
 - **_For any games development project player movements are very important._**
